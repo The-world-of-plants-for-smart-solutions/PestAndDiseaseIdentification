@@ -12,17 +12,21 @@ Human-computer interactive system which provides fully automated approach for id
 * Pest information should be shown which includes:
   1. Disease Name
   2. Pest Name
-  3. Pesticides required to control pests
+  3. Pesticides required to control pests and diseases.
   
 ## Results with Screenshot
-### Identified leaf is affected with disease and suggested pesticides required to control pest and disease.
+#### Identified leaf is affected with disease and suggested pesticides required to control pest and disease.
 
 ![image](https://user-images.githubusercontent.com/45028951/108708676-c5603600-7537-11eb-98ef-08d699a315ed.png)
 ![image](https://user-images.githubusercontent.com/45028951/108708702-ce510780-7537-11eb-835a-7edbf53c034b.png)
 ![image](https://user-images.githubusercontent.com/45028951/108708741-dad56000-7537-11eb-85e0-f696f1d59b0d.png)
 
-### Identified leaf is Healthy
+#### Identified leaf is Healthy
 ![image](https://user-images.githubusercontent.com/45028951/108708769-e1fc6e00-7537-11eb-8fee-dea8f0c8361e.png)
+
+## Technology/Tools
+* Matlab
+* AlexNet - Deep Learning Algorithm
 
 ## AlexNet training result
 ![image](https://user-images.githubusercontent.com/45028951/108709359-95656280-7538-11eb-90d4-4a3dc0514ce5.png)
